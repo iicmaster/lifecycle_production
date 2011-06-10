@@ -1,0 +1,4 @@
+*.lck
+*.LCK
+_notes/
+_compareTemp/
