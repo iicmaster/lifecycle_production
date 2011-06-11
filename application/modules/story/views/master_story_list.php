@@ -91,7 +91,7 @@
 <title>List</title>
 <?php echo css_asset('aristo/jquery-ui-1.8.7.custom.css'); ?>
 <?php echo css_asset('jquery.treeview.css'); ?>
-<link rel="stylesheet" type="text/css" href="http://192.168.9.36/IIC-Framework/assets/css/iic_layout.css" />
+<link rel="stylesheet" type="text/css" href="<?php echo base_url() ?>iic_tools/css/iic_layout.css" />
 <?php echo css_asset('style.css'); ?>
 <style type="text/css">
 body { margin: 10px; }

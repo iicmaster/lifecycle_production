@@ -15,7 +15,8 @@
 |
 */
 //$config['base_url']	= 'http://192.168.9.44/lifecycle_production/';
-$config['base_url']	= 'http://192.168.9.51/lifecycle_production/';
+//$config['base_url']	= 'http://192.168.9.51/lifecycle_production/';
+$config['base_url']	= 'http://127.0.0.1/lifecycle_production/';
 
 /*
 |--------------------------------------------------------------------------
